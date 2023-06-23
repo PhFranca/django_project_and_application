@@ -1,2 +1,2 @@
 # django_project_and_application
-Django projec and pplication
+Django project and pplication
